@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@nomicfoundation/solidity-analyzer": "^0.1.1",
     "@remix-project/remix-solidity": "0.5.32",
     "@remix-project/remix-url-resolver": "0.0.75",
     "tslib": "2.6.2"
